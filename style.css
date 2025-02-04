@@ -5,7 +5,9 @@
 }
 
 body {
-    font-family: 'Courier New', monospace;
+    font-family: "Ubuntu", serif;
+    font-weight: 300;
+    font-style: normal;
     background-color: #000000;
     color: #ffffff;
     line-height: 1.6;
