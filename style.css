@@ -8,8 +8,8 @@ body {
     font-family: "Ubuntu", serif;
     font-weight: 300;
     font-style: normal;
-    background-color: #000000;
-    color: #ffffff;
+    background-color: #000000; /* Changes the Background Color of the Page*/
+    color: #ffffff; /* Changes the Text Color of the page */
     line-height: 1.6;
     padding: 20px;
 }
@@ -200,7 +200,7 @@ body {
         .progress-container {
             flex-grow: 1;
             height: 4px;
-            background-color: #464646;
+            background-color: #464646; /* Progress background color */
             border-radius: 2px;
             margin: 8px 0;
             position: relative;
